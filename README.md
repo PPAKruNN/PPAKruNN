@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/PPAKruNN/PPAKruNN/blob/main/youshouldhaveusedtypescript.png"  />
+  <img height="300" src="https://github.com/PPAKruNN/PPAKruNN/blob/main/youshouldhaveusedtypescript.png"  />
 </div>
 
 ###
@@ -11,12 +11,6 @@
 ###
 
 <h1 align="left">Hey there 👋</h1>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <h2 align="left">I'm Pedro, just another brazilian web developer.</h2>
 
