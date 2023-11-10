@@ -1,16 +1,20 @@
 <div align="center">
-  <img height="300" src="https://github.com/PPAKruNN/PPAKruNN/blob/main/youshouldhaveusedtypescript.png"  />
+  <img height="275" src="https://github.com/PPAKruNN/PPAKruNN/blob/main/youshouldhaveusedtypescript.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pedro-soares-nascimento" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <h1 align="left">Hey there 👋</h1>
+
+###
 
 <h2 align="left">I'm Pedro, just another brazilian web developer.</h2>
 
