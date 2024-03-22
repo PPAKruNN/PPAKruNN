@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- I'm in college (IMD/UFRN) studying to become a Computer Scientist.- You can contact me on sn.jaypee@gmail.com</p>
+<p align="left">- I'm in college (IMD/UFRN) studying to become a Computer Scientist. <br/>- You can contact me on sn.jaypee@gmail.com</p>
 
 ###
 
