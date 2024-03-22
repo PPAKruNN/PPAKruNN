@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="275" src="https://github.com/PPAKruNN/PPAKruNN/blob/main/youshouldhaveusedtypescript.png"  />
-</div>
 
 ###
 
@@ -24,7 +21,7 @@
 
 ###
 
-<p align="left">- I'm in college (IMD/UFRN) studying to become a Computer Scientist.<br>- Right now, i'm learning Angular and C.<br>- You can contact me on sn.jaypee@gmail.com</p>
+<p align="left">- I'm in college (IMD/UFRN) studying to become a Computer Scientist.- You can contact me on sn.jaypee@gmail.com</p>
 
 ###
 
